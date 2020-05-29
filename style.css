@@ -200,7 +200,9 @@ p {
     max-width: 150px;
 }
 
-/ *footer styling */ footer {
+/*Footer styling*/
+
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
