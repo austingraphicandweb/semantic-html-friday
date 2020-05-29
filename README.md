@@ -1,29 +1,17 @@
 # Semantic-HTML-Friday-Homework
-By Austin Keener
+By Austin Keener <br>
+<i>These are the terms of installation for this code.<i>
 ## Table of Contents
-These are the terms of installation for this code.
-### Usage <br>
-### Credits<br>
-### License<br>
-### Badges<br>
-### Contributing<br>
+### 1. Usage <br>
+### 2. License<br>
 <hr>
-
-## Installation
-If you want to install my program you need hosting and a domain. This is because it is tied to the internet, and the most common way for someone to establish a presence on the internet is with a domain and hosting to go along with the code they want to publish.
-<hr>
-
-### Heading
 
 ## Usage
-You can use my software but you need to read the licensing agreement below because it uses a more official way of explaining the actual boundries of what I deem acceptable by users.
-<hr>
-
-## Credits
-
+<i>Accessability while trying to use the internet is important. Some are used to being able to cruise the internet without help while others are not. This website is made to take into consideration those who need accessability help while browsing the website. While creating the website, semantic coding is used to help make the html and css more readable on the front end for those using accessability software.<i>
 <hr>
 
 ## Licensing
+<i>
 MIT License
 
 Copyright (c) [2020] [Austin Graphic and Web]
@@ -44,13 +32,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE.<i>
 <hr>
-
-<!--## Badges
-<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="" width="200px" height="200px">
-<hr>-->
-
-<!--## Contributions
-So far no body has contributed to this project, but if you want to please refer to the credits section above for how to purchase them.
-<hr>-->
