@@ -55,9 +55,7 @@ a:focus {
     padding: 2px 6px 2px 6px;
 }
 
-p {
-    font-size: 16px;
-}
+
 
 /* Styling for large image that grabs the viewers attention */
 .hero {
@@ -68,7 +66,10 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*paragraph styling*/
+p {
+    font-size: 16px;
+}
 .float-left {
     float: left;
     margin-right: 25px;
