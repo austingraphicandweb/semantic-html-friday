@@ -1,4 +1,5 @@
-#Homework one alterations
+# Homework one alterations
+
 ## This is where I am going to add the changes that I have made to the website.
 
 ### I added focus to my anchor tags so that there is a border around it when someone tabs around the page. This is good for people who do not have  the ability to use a mouse and need to use a keyboard for everyone as well as people whose eyesight is not the best. The color of the outline plus the width of the border makes it easy for someone to spot the location of where the focus on the website is.
