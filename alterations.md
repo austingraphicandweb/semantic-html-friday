@@ -4,7 +4,7 @@
 
 ### alt tags have been added to all of the image elements inside of the html document.
 
-### A title has been added to the div with a class of 'hero' just in case google wants to honor the title with a validation for better seo and also for screen readers. I chose to do this because the image has been placed in the css of the website instead of inside of an image tag on the html page itself. 
+### A title has been added to the div with a class of 'hero' just in case google wants to honor the title with a validation for better seo and also for screen readers. I chose to do this because the image has been placed in the css of the website instead of inside of an image tag on thgit e html page itself. 
 
 ### Removed header class and input semantic header tags in both the html and css.
 
