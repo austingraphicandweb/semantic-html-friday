@@ -4,7 +4,13 @@ By Austin Keener <br>
 ## Table of Contents
 ### 1. Usage <br>
 ### 2. License<br>
+
+link: https://austingraphicandweb.github.io/semantic-html-friday-work/
 <hr>
+
+## Screenshot
+
+![](/assets/images/readme-screenshot.png)
 
 ## Usage
 <i>Accessability while trying to use the internet is important. Some are used to being able to cruise the internet without help while others are not. This website is made to take into consideration those who need accessability help while browsing the website. While creating the website, semantic coding is used to help make the html and css more readable on the front end for those using accessability software.<i>
