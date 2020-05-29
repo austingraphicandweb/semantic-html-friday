@@ -8,8 +8,8 @@
 
 ### Removed header class and input semantic header tags in both the html and css.
 
-### Replaced div around the navigation with the navigation html tag.
+### Replaced div around the navigation with the navigation html tag and then changed out the word 'div' in the css tags with the word navigation.
 
 ### Replaced the div with the class of content with a section tag instead because it is more semantic.
 
-### Replacing the div with a class of social-media-marketing with a semantic article tag.
+### Replacing the div with a class of social-media-marketing with a semantic article tag with a class of social-media-marketing.
