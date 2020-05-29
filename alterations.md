@@ -6,5 +6,10 @@
 
 ### A title has been added to the div with a class of 'hero' just in case google wants to honor the title with a validation for better seo and also for screen readers. I chose to do this because the image has been placed in the css of the website instead of inside of an image tag on the html page itself. 
 
+### Removed header class and input semantic header tags in both the html and css.
 
+### Replaced div around the navigation with the navigation html tag.
 
+### Replaced the div with the class of content with a section tag instead because it is more semantic.
+
+### Replacing the div with a class of social-media-marketing with a semantic article tag.
