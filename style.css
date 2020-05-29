@@ -1,13 +1,14 @@
+/*Web page as a whole*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* The body of the website */
 body {
     background-color: #d9dcd6;
 }
-
+/* Navigation styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,7 +41,7 @@ header navigation ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* link styling */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -48,13 +49,13 @@ a {
 
 a:focus {
     border: 10px solid red;
-    padding:2px 6px 2px 6px;
+    padding: 2px 6px 2px 6px;
 }
 
 p {
     font-size: 16px;
 }
-
+/* Styling for large image that grabs the viewers attention */
 .hero {
     height: 800px;
     width: 100%;
@@ -73,6 +74,7 @@ p {
     float: right;
     margin-left: 25px;
 }
+/* section below the hero image */
 
 .content {
     width: 75%;
@@ -193,13 +195,13 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
